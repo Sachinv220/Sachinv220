@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">I am 15 years old and I enjoy learning new technologies. In my free time, I like to participate in competitive programming contests. I am excited to see where my coding journey takes me in the future!</h3>
+<h4 align="center">I am 15 years old and I enjoy learning new technologies. In my free time, I like to participate in competitive programming contests. I am excited to see where my coding journey takes me in the future!</h3>
 
 <div style="display:flex; flex-direction:column;">
 <h3 align="left">Languages and Tools:</h3>
