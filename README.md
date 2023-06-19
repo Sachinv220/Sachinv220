@@ -7,9 +7,3 @@
 </div>
 <div align="center">
   
- # Hello, world! 👋
-
-  [<img src="https://github-readme-stats.vercel.app/api?username=Sachinv220&show_icons=true&line_height=45&include_all_commits=true" />](https://github.com/Sachinv220) 
-  <br>
-  <br>
-</div>
