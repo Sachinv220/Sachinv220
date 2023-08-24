@@ -1,8 +1,9 @@
-<pre>███████  █████   ██████ ██   ██ ██ ███    ██        ██    ██ 
-██      ██   ██ ██      ██   ██ ██ ████   ██        ██    ██ 
-███████ ███████ ██      ███████ ██ ██ ██  ██        ██    ██ 
-     ██ ██   ██ ██      ██   ██ ██ ██  ██ ██         ██  ██  
-███████ ██   ██  ██████ ██   ██ ██ ██   ████ ██       ████ </pre>
+<pre>███████╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗  ██╗   ██╗
+██╔════╝██╔══██╗██╔════╝██║  ██║██║████╗  ██║  ██║   ██║
+███████╗███████║██║     ███████║██║██╔██╗ ██║  ██║   ██║
+╚════██║██╔══██║██║     ██╔══██║██║██║╚██╗██║  ╚██╗ ██╔╝
+███████║██║  ██║╚██████╗██║  ██║██║██║ ╚████║██╗╚████╔╝ 
+╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝ ╚═══╝</pre>
 
 <!-- Introduction -->
 I'm a 15-year-old aspiring programmer who loves diving into the world of competitive programming and exploring the intricate details of system design. I've already dabbled in various languages and frameworks to build exciting projects. When I'm not solving coding challenges, you can find me experimenting with new technologies and working on web applications.
