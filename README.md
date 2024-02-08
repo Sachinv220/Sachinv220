@@ -13,8 +13,8 @@ I'm a 16-year-old aspiring programmer, with a passion for system design.
 
 <!-- Tech Stack -->
 ## 💻 My Tech Stack
-- Languages: Python, C++, JavaScript
-- Web: HTML, CSS
+- Languages: Python, C++, Typescript
+- Web: HTML, CSS, JS
 - Frontend: React, Next.js
 - Backend: Django
 - Competitive Programming: Solving puzzles one code at a time!
