@@ -6,4 +6,4 @@
 ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝ ╚═══╝</pre>
 
 <!-- Introduction -->
-I'm a 16-year-old aspiring programmer, with a passion for system design and AI.
+I'm a 18-year-old aspiring programmer, with a passion for system design and AI.
